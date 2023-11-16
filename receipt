@@ -1,0 +1,13 @@
+task.Receipt Information:
+Date: 2021-10-10
+task.Customer: Mykola
+Products:
+- Pork, type: MEAT
+- Salmon, type: FISH
+- WhiteBread, type: GOODS
+Comments:
+Put Pork in the fridge
+Put Salmon in the fridge
+Total Price: 72.0
+Paid: true
+------------------------------
